@@ -1,46 +1,51 @@
 <div align="center">
 
-  <!-- Encabezado Principal -->
-  <h1>¡Hola! Soy Adrián López Delgado 👋</h1>
+  <!-- Encabezado animado en tono Púrpura -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=9B51E0&center=true&vCenter=true&width=500&lines=ADRI%C3%81N+L%C3%93PEZ+DELGADO;DESARROLLADOR+DAM+%7C+T%C3%89CNICO+SMR" alt="Typing SVG" />
+  </p>
+
   <p><b>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | Técnico en SMR</b></p>
 
-  <!-- Badges de información de contacto y ubicación -->
+  <!-- Badges estilo Púrpura y Oscuro -->
   <a href="mailto:delgado.lopez161@gmail.com">
-    <img src="https://img.shields.io/badge/Email-delgado.lopez161%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-delgado.lopez161%40gmail.com-2D0B5A?style=for-the-badge&logo=gmail&logoColor=B066FE" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Madrid%2C%20España-007acc?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/Inglés-B1%20Intermedio-ff9900?style=for-the-badge" alt="Nivel de Inglés" />
+  <img src="https://img.shields.io/badge/Ubicación-Madrid%2C%20España-1A1A2E?style=for-the-badge&logo=googlemaps&logoColor=9B51E0" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Inglés-B1%20Intermedio-8A2BE2?style=for-the-badge" alt="Nivel de Inglés" />
 
 </div>
 
+<br />
+
 ---
 
-### 🚀 Sobre mí
+### 🟪 Sobre mí
 
 | Formación y Perfil | Objetivos Profesionales |
 | :--- | :--- |
-| **Estudiante de GS DAM** en FP Nebrija | Especializarme en desarrollo de software y gestión de datos. |
-| **Técnico GM en SMR** (Sistemas Microinformáticos y Redes) | Aplicar mis conocimientos técnicos en proyectos de software reales. |
-| **Certificado Cisco / Python Institute** en *Python Essentials 1* | Incorporarme a prácticas profesionales o un puesto *junior* de desarrollo. |
+| **Estudiante GS DAM** en FP Nebrija | Diseñar software eficiente, escalable y limpio. |
+| **Técnico GM SMR** (Sistemas Microinformáticos y Redes) | Aplicar conocimientos sólidos en redes, sistemas y desarrollo. |
+| **Certificación Cisco / Python Institute** (*Python Essentials 1*) | Incorporarme a prácticas profesionales o un puesto *junior* de desarrollo. |
 
-> Apasionado por la tecnología, el desarrollo de software y la administración de sistemas. Cuento con formación en redes y sistemas, combinada con competencias sólidas en programación con Python y bases de datos.
+> Apasionado por la tecnología, el desarrollo multiplataforma y la administración de sistemas. Enfocado en el aprendizaje continuo y la creación de proyectos funcionales.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### ⚡ Tecnologías y Herramientas
 
 #### Lenguajes y Desarrollo
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20Bases%20de%20Datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2D0B5A?style=for-the-badge&logo=python&logoColor=B066FE)
+![Java](https://img.shields.io/badge/Java-2D0B5A?style=for-the-badge&logo=java&logoColor=B066FE)
+![SQL](https://img.shields.io/badge/SQL-2D0B5A?style=for-the-badge&logo=mysql&logoColor=B066FE)
+![HTML5](https://img.shields.io/badge/HTML5-2D0B5A?style=for-the-badge&logo=html5&logoColor=B066FE)
+![CSS3](https://img.shields.io/badge/CSS3-2D0B5A?style=for-the-badge&logo=css3&logoColor=B066FE)
 
-#### Sistemas y Herramientas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### Sistemas y Entornos
+![Linux](https://img.shields.io/badge/Linux-1A1A2E?style=for-the-badge&logo=linux&logoColor=9B51E0)
+![Windows](https://img.shields.io/badge/Windows-1A1A2E?style=for-the-badge&logo=windows&logoColor=9B51E0)
+![Git](https://img.shields.io/badge/Git-1A1A2E?style=for-the-badge&logo=git&logoColor=9B51E0)
+![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=9B51E0)
 
 ---
 
@@ -53,12 +58,12 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adriloplb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriloplb&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adriloplb&show_icons=true&theme=synthwave&title_color=9B51E0&icon_color=8A2BE2&text_color=ffffff&bg_color=0f0f1b&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriloplb&layout=compact&theme=synthwave&title_color=9B51E0&text_color=ffffff&bg_color=0f0f1b&hide_border=true&hide=html,css" alt="Lenguajes más usados" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Diseñado con ❤️ por Adrián López Delgado</sub>
+  <sub>Diseñado por Adrián López Delgado</sub>
 </div>
